@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "paths": {
+        "@/lib/wagmi": ["lib/wagmi.ts"]
+      }
+    }
+  }
